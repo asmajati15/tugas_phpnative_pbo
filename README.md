@@ -1,4 +1,4 @@
 # Tugas PHP Native Pemograman Berorientasi Objek
-Kelompok:
--Asmajati Ananto
--M. Raihan Musyafa Effendi
+<h3>Kelompok:</h3>
+https://img.shields.io/badge/Asmajati-Ananto-brightgreen
+https://img.shields.io/badge/M.Raihan-Musyafa-brightgreen
